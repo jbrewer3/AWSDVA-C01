@@ -9,7 +9,7 @@ response = client.create_db_instance(
     AllocatedStorage=20,
     DBInstanceClass='db.t2.micro',
     Engine='mysql',
-    MasterUsername='jbrewer',
-    MasterUserPassword='Jbrewer3',
+    MasterUsername='string',
+    MasterUserPassword='string',
     )
     
